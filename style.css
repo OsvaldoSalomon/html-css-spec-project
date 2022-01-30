@@ -1,0 +1,82 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.headerButtons {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.headerButtons > a {
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 3px 5px;
+    margin: 5px;
+}
+
+.navbar {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar > a {
+    text-decoration: none;
+}
+
+.quote {
+    margin: 25px 150px;
+}
+
+.quoteCredits {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.quote > h1 {
+    border: 3px solid black;
+    text-align: center;
+}
+
+.share {
+    margin: 16px 0;
+}
+
+.bigPicture {
+    text-align: center;
+}
+
+.paragraphs {
+    margin: 25px 180px;
+}
+
+.linksList {
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin: 25px 180px;
+}
+
+.footer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
